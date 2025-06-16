@@ -1,4 +1,4 @@
-# 💱 Multi-Currency Money Calculator
+# Multi-Currency Money Calculator
 
 ## Objective
 
